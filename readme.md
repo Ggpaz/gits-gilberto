@@ -12,3 +12,4 @@ git diff
 git merge
 
 ## PROJETO AULA 2
+como trabalhar com git
